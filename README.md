@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # randomgitcat
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# DesafioGitCats
+>>>>>>> 1c78c94933edbde6d821054bc1eaef927c742d5a
